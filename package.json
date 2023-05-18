@@ -1,0 +1,12 @@
+{
+  "name": "loops-array",
+  "version": "1.0.0",
+  "description": "",
+  "main": "loop_arrays.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
